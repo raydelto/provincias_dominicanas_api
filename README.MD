@@ -60,6 +60,8 @@ En esta URL el *9* representa el código del distrito municipal del cual se dese
 
 ## Configurando el ambiente de desarrollo
 
+El script para generar la base de datos de este proyectos puede ser accedido [desde este enlace](https://github.com/raydelto/provincias_dominicanas).
+
 Este proyecto utiliza como dependencia el proyecto [php-rest-service](https://github.com/marcj/php-rest-service) para gestionar el servicio RESTful.
 
 Si no tienes *Composer* instalado descárgalo de [la siguiente URL](http://getcomposer.org/composer.phar):
