@@ -1,6 +1,6 @@
 # API de Provincias Dominicanas
 
-Este proyecto es una simple API para consultar los nombres de las provincias dominicanas, sus municipios y sus distritos municipales.
+Este proyecto es una simple API para consultar el listado de las provincias, municipios y distritos municipales de República Dominicana.
 
 Esta API puede ser accedida mediante la siguiente URL: http://provinciasrd.raydelto.org
 
